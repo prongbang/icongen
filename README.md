@@ -13,7 +13,7 @@ brew install icongen
 ## Generate by default
 
 ```shell
-icongen --src Icon-1024.png --dst icons
+icongen --src ./Icon-1024.png --dst ./icons
 ```
 
 ## Generate by custom icons
@@ -27,7 +27,7 @@ icons:
 ```
 
 ```shell
-icongen --src Icon-1024.png --dst icons --icons icons.yml
+icongen --src ./Icon-1024.png --dst ./icons --icons ./icons.yml
 ```
 
 ### Output
