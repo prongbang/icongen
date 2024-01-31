@@ -5,6 +5,8 @@ Create icons for iOS, macOS, and watchOS with one command.
 ## Install
 
 ```shell
+brew update
+brew tap prongbang/homebrew-formulae
 brew install icongen
 ```
 
