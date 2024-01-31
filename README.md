@@ -1,5 +1,7 @@
 # icongen
 
+Create icons for iOS, macOS, and watchOS with one command.
+
 ## Install
 
 ```shell
